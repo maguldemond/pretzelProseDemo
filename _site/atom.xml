@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Feed Name</title>
+  <link href="http://domain/"/>
+  <link type="application/atom+xml" rel="self" href="http://domain/atom.xml"/>
+  <updated>2015-05-19T16:21:07.5366068-04:00</updated>
+  <id>http://domain/</id>
+  <author>
+    <name>Author</name>
+    <email>Email</email>
+  </author>
+
+  
+  <entry>
+    <id>http://domain//2015/05/19/testAddPostFromGitHub.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2015/05/19/testAddPostFromGitHub.html"/>
+    <title>this is added via github</title>
+    <updated>2015-05-19T16:21:07.6199315-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;p&gt;Markdown added here.&lt;/p&gt;
+&lt;p&gt;I wonder if this is going to work.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://domain//2015/05/19/testFromStackedit.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2015/05/19/testFromStackedit.html"/>
+    <title>this is a post</title>
+    <updated>2015-05-19T16:21:07.6199315-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;blockquote&gt;
+&lt;p&gt;This stackedit seems very nice. 
+Just need to get it to integrate with github
+and to show the markdown
+and to allow setting the layout&lt;/p&gt;
+&lt;p&gt;Written with &lt;a href=&quot;https://stackedit.io/&quot;&gt;StackEdit&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://domain//2015/04/29/myfirstpost.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2015/04/29/myfirstpost.html"/>
+    <title>My First Edited Post</title>
+    <updated>2015-04-29T00:00:00-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;h2&gt;Hello world...&lt;/h2&gt;
+&lt;p&gt;This is my first post on the site!&lt;/p&gt;
+&lt;p&gt;And now it is edited.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <id>http://domain//2015/04/29/secondpost.html</id>
+    <link type="text/html" rel="alternate" href="http://domain//2015/04/29/secondpost.html"/>
+    <title>Second Post</title>
+    <updated>2015-04-29T00:00:00-04:00</updated>
+    <author>
+      <name>Author</name>
+      <uri>http://domain/</uri>
+    </author>
+    <content type="html">&lt;h2&gt;testing Pretzel&lt;/h2&gt;
+&lt;p&gt;I&apos;m adding a new post here, hopefully I can get this up to work with GitPages and then Prose.io&lt;/p&gt;
+&lt;p&gt;Adding some text, going to build with pretzel.&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
