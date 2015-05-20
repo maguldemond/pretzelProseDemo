@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Feed Name</title>
+    <link>http://domain/</link>
+    <atom:link href="http://domain/rss.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <language>en-au</language>
+    <pubDate>Tue, 19 May 2015 16:21:07 %z</pubDate>
+    <lastBuildDate>Tue, 19 May 2015 16:21:07 %z</lastBuildDate>
+
+    
+    <item>
+      <title>this is added via github</title>
+      <link>http://domain/2015/05/19/testAddPostFromGitHub.html</link>
+      <pubDate>Tue, 19 May 2015 16:21:07 %z</pubDate>
+      <author>Author</author>
+      <guid>http://domain/2015/05/19/testAddPostFromGitHub.html</guid>
+      <description>&lt;p&gt;Markdown added here.&lt;/p&gt;
+&lt;p&gt;I wonder if this is going to work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>this is a post</title>
+      <link>http://domain/2015/05/19/testFromStackedit.html</link>
+      <pubDate>Tue, 19 May 2015 16:21:07 %z</pubDate>
+      <author>Author</author>
+      <guid>http://domain/2015/05/19/testFromStackedit.html</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;This stackedit seems very nice. 
+Just need to get it to integrate with github
+and to show the markdown
+and to allow setting the layout&lt;/p&gt;
+&lt;p&gt;Written with &lt;a href=&quot;https://stackedit.io/&quot;&gt;StackEdit&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My First Edited Post</title>
+      <link>http://domain/2015/04/29/myfirstpost.html</link>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 %z</pubDate>
+      <author>Author</author>
+      <guid>http://domain/2015/04/29/myfirstpost.html</guid>
+      <description>&lt;h2&gt;Hello world...&lt;/h2&gt;
+&lt;p&gt;This is my first post on the site!&lt;/p&gt;
+&lt;p&gt;And now it is edited.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://domain/2015/04/29/secondpost.html</link>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 %z</pubDate>
+      <author>Author</author>
+      <guid>http://domain/2015/04/29/secondpost.html</guid>
+      <description>&lt;h2&gt;testing Pretzel&lt;/h2&gt;
+&lt;p&gt;I&apos;m adding a new post here, hopefully I can get this up to work with GitPages and then Prose.io&lt;/p&gt;
+&lt;p&gt;Adding some text, going to build with pretzel.&lt;/p&gt;
+</description>
+    </item>
+    
+
+  </channel> 
+</rss>
